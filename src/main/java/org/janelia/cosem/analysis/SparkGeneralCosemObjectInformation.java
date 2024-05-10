@@ -53,7 +53,6 @@ import net.imglib2.view.Views;
 
 /**
  * Connected components for an entire n5 volume
- *
  * @author David Ackerman &lt;ackermand@janelia.hhmi.org&gt;
  */
 public class SparkGeneralCosemObjectInformation {
